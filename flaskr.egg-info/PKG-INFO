@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: flaskr
+Version: 1.0.2
+Summary: The basic blog app learned from FLASK
+Home-page: UNKNOWN
+Maintainer: lc
+Maintainer-email: xdulichong@gmail.com
+License: BSD
+Description: 2019/1/27 基本功能完成
+Platform: UNKNOWN
+Provides-Extra: test

@@ -3,7 +3,7 @@ from flask import (Blueprint, flash, g, redirect, render_template, request,
 from werkzeug.exceptions import abort
 
 from myblog.auth import login_required
-from blogproject.db import get_db
+from myblog.db import get_db
 
 bp = Blueprint('blog', __name__)
 
